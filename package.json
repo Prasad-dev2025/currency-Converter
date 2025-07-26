@@ -1,0 +1,19 @@
+{
+  "name": "java-script--currency-converter",
+  "version": "1.0.0",
+  "description": "currency converter using api",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasad-dev2025/currency-Converter.git"
+  },
+  "author": "prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prasad-dev2025/currency-Converter/issues"
+  },
+  "homepage": "https://github.com/Prasad-dev2025/currency-Converter#readme"
+}
