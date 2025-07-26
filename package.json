@@ -1,6 +1,6 @@
 {
   "name": "java-script--currency-converter",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "currency converter using api",
   "main": "app.js",
   "scripts": {
