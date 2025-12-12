@@ -61,10 +61,3 @@ btn.addEventListener("click",(evt)=>{
 document.addEventListener("DOMContentLoaded", () => {
     updateExchangeRate();
 });
-
-
-function hello(){
-    console.log("hello");
-}
-
-hello();
